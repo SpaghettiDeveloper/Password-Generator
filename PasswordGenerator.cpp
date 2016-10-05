@@ -1,8 +1,6 @@
 //
 //  PasswordGenerator.cpp
-//
-//  Created by Mitchell Pebbles on 4/10/16.
-//
+
 
 #include <iostream>
 #include <string>
